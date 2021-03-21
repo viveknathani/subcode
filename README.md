@@ -22,7 +22,7 @@ python3 path_to_subcode_script path_to_code_file command_to_run_for_output name_
 3. peform your input/output operations (if any) as you normally would; it will all be captured by the script 
 
 ## does it work for windows?
-no.
+no.  
 as of now, the script works only in a Linux environment. (tested in Ubuntu 20.04)
 
 ## how to contribute?
