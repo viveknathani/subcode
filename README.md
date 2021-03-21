@@ -27,7 +27,7 @@ as of now, the script works only in a Linux environment. (tested in Ubuntu 20.04
 
 ## how to contribute?
 1. fork this repository 
-2. clone your work 
+2. clone your forked repo 
 3. make your changes in a branch with a decent name 
 4. push your branch  
 5. make a PR and wait! 
