@@ -1,6 +1,8 @@
 from fpdf import FPDF
 import subprocess
 import argparse
+import sys
+import os
 
 def add_to_pdf(pdf, text, give_fill):
 
@@ -85,6 +87,9 @@ add_to_pdf(pdf, output, True)
 
 # Generation ends
 pdf.output(args.output_pdf)
+
+# Delete output.txt
+deleting = os.system("rm output.txt")
 
 print("Find the pdf in the current directory.")
 print("You are welcome.")
