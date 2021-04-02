@@ -22,12 +22,12 @@ python3 path_to_subcode_script path_to_code_file command_to_run_for_output name_
 3. peform your input/output operations (if any) as you normally would; it will all be captured by the script 
 
 ## does it work for windows?
-no.
+no.  
 as of now, the script works only in a Linux environment. (tested in Ubuntu 20.04)
 
 ## how to contribute?
 1. fork this repository 
-2. clone your work 
+2. clone your forked repo 
 3. make your changes in a branch with a decent name 
 4. push your branch  
 5. make a PR and wait! 
